@@ -279,24 +279,4 @@ Assignment submission for Machine Learning course
 
 For issues or questions about the project, please refer to the code comments and the Jupyter notebook (`DSproject.ipynb`) for detailed explanations.
 
----
 
-**Last Updated:** January 2026
-- **Week 9**: ANN neural network (added to notebook)
-- **Week 10**: Note on why CNN/RNN not applicable (tabular data)
-- **Week 11**: Note on why NLP not applicable
-- **Week 12**: Industry application section (added to notebook)
-- **Week 13**: Model deployment (this Flask app + instructions)
-- **Week 14**: Explainability with SHAP (code in notebook)
-- **Weeks 15–16**: Final reflection and submission
-
-## GitHub Submission
-
-```bash
-git init
-git add .
-git commit -m "Complete AI & Data Science course project (weeks 1-16)"
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git branch -M main
-git push -u origin main
-```
